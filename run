@@ -1,0 +1,1 @@
+docker run -it -v $(pwd):/home/spacevim/.SpaceVim.d -v "$(pwd)/spring"--rm spacevim/spacevim nvim
